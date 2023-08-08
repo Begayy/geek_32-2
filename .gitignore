@@ -2,6 +2,6 @@
 /Scripts
 pyvenv.cfg
 __pycache__
-/.env
-/venv/
+/.env/
 /.idea/
+/venv/
