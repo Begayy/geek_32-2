@@ -3,5 +3,5 @@
 pyvenv.cfg
 __pycache__
 /.idea/
-/venv
+/venv/
 /.env
